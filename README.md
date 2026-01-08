@@ -48,14 +48,16 @@ A MERN stack full-stack developer from India, exploring cloud computing
 ---
 
 ### 📌 Featured Projects
+
 - **Integrated Placement & Recruitment Portal**  
-  MERN-based system designed to manage college placement activities  
+  MERN-based web application designed to streamline college placement activities, including student management, company listings, and placement workflows.
 
-- **Online Attendance System**  
-  Android + Firebase application for attendance tracking and notifications  
+- **MS-Intern Site (Toshal Infotech – Live Project)**  
+  A company-level MERN stack application developed during an internship at Toshal Infotech. Worked on backend and frontend features, integrated AI-based functionalities for enhanced user experience, and implemented activity tracking to monitor intern progress and engagement.
 
-- **Discussion Forum Backend**  
-  REST API with JWT authentication built using Node.js & MongoDB  
+- **सर्वMeet (SarvaMeet)**  
+ A communication-focused application that facilitates interaction between sign-language users and speech-based users by translating sign language into text and voice outputs, and converting speech back into visual sign representations.
+
 
 ---
 
