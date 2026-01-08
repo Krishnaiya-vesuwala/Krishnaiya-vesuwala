@@ -9,34 +9,49 @@ A MERN stack full-stack developer from India, exploring cloud computing
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Integrated Placement & Recruitment Portal**
-- 🌱 Learning **Cloud Computing, CI/CD Pipelines, Advanced GitHub & Data Structures**
-- 🤝 Open to **MERN stack projects, Backend APIs & Open-source contributions**
-- 💬 Ask me about **MERN stack, REST APIs, MongoDB & Backend Development**
-- 📫 Reach me at **vesuwalak@gmail.com**
+### 👨‍💻 About Me
+- Backend-focused full-stack developer working with the **MERN stack**
+- Strong interest in **cloud computing & scalable systems**
+- Believer in **practical learning through real-world projects**
+- Enjoys solving problems that encourage **out-of-the-box thinking**
+
+---
+
+### 🔭 Currently Working On
+- **Integrated Placement & Recruitment Portal**  
+  🔗 https://github.com/nadiyadrakrishna/Department_of_ICT_2025_26_Placement
+
+---
+
+### 🌱 Currently Learning
+- Cloud Computing  
+- CI/CD Pipelines  
+- Advanced GitHub  
+- Data Structures & Software Engineering Concepts  
+
+---
+
+### 🤝 Open to Collaborate On
+- MERN stack projects  
+- Backend APIs  
+- Open-source contributions  
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,firebase,aws,html,css,tailwind,java,kotlin,python,php,android" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,firebase,aws,html,css,tailwind,java,kotlin,python,php" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaiya-vesuwala&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaiya-vesuwala&theme=tokyonight" />
-</p>
+### 📌 Featured Projects
+- **Integrated Placement & Recruitment Portal** – MERN-based system for college placements  
+- **Online Attendance System** – Android + Firebase-based attendance tracking  
+- **Discussion Forum Backend** – JWT-authenticated REST API using Node.js & MongoDB  
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnaiya-vesuwala&theme=darkhub&row=1&column=6" />
-</p>
+### 📫 How to Reach Me
+- 📧 Email: **vesuwalak@gmail.com**
+- 💼 GitHub: https://github.com/Krishnaiya-vesuwala
